@@ -1,0 +1,9 @@
+﻿global using Ardalis.Result;
+global using AutoMapper;
+global using Identity.Application.Repository.Interfaces;
+global using Identity.Application.Service.Interfaces;
+global using Identity.Domain.Constants;
+global using Identity.Domain.Dtos.Authority;
+global using Identity.Domain.Dtos.Role;
+global using Identity.Domain.Models;
+global using System.Linq.Expressions;
